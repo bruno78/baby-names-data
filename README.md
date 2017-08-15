@@ -1,7 +1,5 @@
 # Baby Names
 
-<div align="center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/4335662f/data/whats-name-in-year.png" alt="What is name in year image" /></div>
-
 ## Introduction
 
 Every year the U.S. Government releases a [data set](https://www.ssa.gov/oact/babynames/) containing information about baby names, from the most popular names to less common ones.
