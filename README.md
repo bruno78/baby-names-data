@@ -1,6 +1,6 @@
 # Baby Names
 
-<div style="text-align:center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/4335662f/data/whats-name-in-year.png" alt="What is name in year image" /></div>
+<div align="center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/4335662f/data/whats-name-in-year.png" alt="What is name in year image" /></div>
 
 ## Introduction
 
