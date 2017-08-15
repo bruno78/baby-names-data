@@ -190,7 +190,10 @@ public class BabyNames
         //System.out.println(extractYear("yob2014short.csv"));
     }
     public void testwhatisNameInYear(){
-        whatIsNameInYear("Isabella", 2012, 2014, "F");
+        whatIsNameInYear("Tessa", 1988, 2014, "F");
+        whatIsNameInYear("Fernando", 1977, 2014, "M");
+        whatIsNameInYear("Kirill", 1987, 2014, "M");
+        whatIsNameInYear("Ilya", 1987, 2014, "M");
     }
     
     public void testGetName() {

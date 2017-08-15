@@ -5,9 +5,9 @@
 Every year the U.S. Government releases a [data set](https://www.ssa.gov/oact/babynames/) containing information about baby names, from the most popular names to less common ones.
 This repository contains a Java program to read CSV files and information about baby names from 1880 to 2014.
 
-For the most part this program uses a simple ranking algorithm to give insights on name. It assumes the data is already sorted from the most popular to the less one. 
+For the most part this program uses a simple ranking algorithm to give insights on name. It assumes the data is already sorted from the most popular to the less one.
 
-## Methods and descriptiions:
+## Methods and description:
 
 * **totalBirths** Return total births of boys identified in the data set as Gender "M", and total births for girls identified in the data set as Gender "F" per year.
 
