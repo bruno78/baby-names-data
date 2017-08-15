@@ -1,5 +1,7 @@
 # Baby Names
 
+<div style="text-align:center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/4335662f/data/whats-name-in-year.png" alt="What is name in year image" /></div>
+
 ## Introduction
 
 Every year the U.S. Government releases a [data set](https://www.ssa.gov/oact/babynames/) containing information about baby names, from the most popular names to less common ones.
@@ -17,8 +19,12 @@ For the most part this program uses a simple ranking algorithm to give insights 
 
 * **WhatIsNameInYear** Determine what would your name be if you were born in a different year, based on popularity.
 
+<div style="text-align:center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/4335662f/data/whats-name-in-year.png" alt="What is name in year image" /></div>
+
 * **yearOfHighestRank** Select a range of files and return the year with the highest rank for the name and gender.
 
 * **getAverageRank** Select a range of files to process and returns the average rank of the name and gender over the selected files.
 
 * **getTotalBirthsRankedHigher** Return an integer, the total number of births of those names with the same gender and same year who are ranked higher than name.
+
+<div style="text-align:center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/4335662f/data/total-births-ranked-higher.png" alt="Total Births Ranked Higher photo" /></div>
