@@ -195,6 +195,7 @@ public class BabyNames
         whatIsNameInYear("Kirill", 1987, 2014, "M");
         whatIsNameInYear("Ilya", 1991, 2014, "M");
         whatIsNameInYear("Aori", 1978, 2014, "M");
+        whatIsNameInYear("Bruno", 1978, 2014, "M");
     }
     
     public void testGetName() {
