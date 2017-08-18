@@ -191,9 +191,10 @@ public class BabyNames
     }
     public void testwhatisNameInYear(){
         whatIsNameInYear("Tessa", 1988, 2014, "F");
-        whatIsNameInYear("Fernando", 1977, 2014, "M");
+        whatIsNameInYear("Eran", 1994, 2014, "M");
         whatIsNameInYear("Kirill", 1987, 2014, "M");
-        whatIsNameInYear("Ilya", 1987, 2014, "M");
+        whatIsNameInYear("Ilya", 1991, 2014, "M");
+        whatIsNameInYear("Aori", 1978, 2014, "M");
     }
     
     public void testGetName() {
