@@ -5,7 +5,7 @@
 Every year the U.S. Government releases a [data set](https://www.ssa.gov/oact/babynames/) containing information about baby names, from the most popular names to less common ones.
 This repository contains a Java program to read CSV files and information about baby names from 1880 to 2014.
 
-For the most part this program uses a simple ranking algorithm to give insights on name. It assumes the data is already sorted from the most popular to the less one.
+For the most part this program uses a simple ranking algorithm to give insights on names. It assumes the data is already sorted from the most popular to the less one.
 
 ## Methods and description:
 
@@ -17,7 +17,7 @@ For the most part this program uses a simple ranking algorithm to give insights 
 
 * **WhatIsNameInYear** Determine what would your name be if you were born in a different year, based on popularity.
 
-<div align="center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/e4ef45ba/data/whats-name-in-year.png" alt="What is name in year image" /></div>
+<div align="center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/8e857b2c/data/whats-name-in-year.png" alt="What is name in year image" /></div>
 
 * **yearOfHighestRank** Select a range of files and return the year with the highest rank for the name and gender.
 
