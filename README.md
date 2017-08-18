@@ -17,7 +17,7 @@ For the most part this program uses a simple ranking algorithm to give insights 
 
 * **WhatIsNameInYear** Determine what would your name be if you were born in a different year, based on popularity.
 
-<div align="center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/4335662f/data/whats-name-in-year.png" alt="What is name in year image" /></div>
+<div align="center"><img src="https://cdn.rawgit.com/bruno78/baby-names-data/e4ef45ba/data/whats-name-in-year.png" alt="What is name in year image" /></div>
 
 * **yearOfHighestRank** Select a range of files and return the year with the highest rank for the name and gender.
 
